@@ -37,7 +37,7 @@ CPM_AddModule("gl_platform"
 # ++ MODULE: GL Context creation
 CPM_AddModule("gl_context"
   GIT_REPOSITORY "https://github.com/CIBC-Internal/cpm-gl-batch-context.git"
-  GIT_TAG "1.2.0")
+  GIT_TAG "origin/master")
 
 CPM_Finish()
 
